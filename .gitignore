@@ -1,3 +1,23 @@
+# Virtual Environment
+venv/
 venv
-task.md
+
+# Environment files
 .env
+
+# Project Tracking & Scratch
+task.md
+scratch/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*

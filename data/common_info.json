@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Berapa lama waktu pengiriman barang?",
+    "answer": "Waktu pengiriman standar adalah 2-4 hari kerja untuk wilayah Jabodetabek, dan 3-7 hari kerja untuk wilayah luar pulau Jawa."
+  },
+  {
+    "question": "Berapa biaya ongkos kirim?",
+    "answer": "Ongkos kirim dihitung berdasarkan berat paket dan jarak pengiriman dari gudang kami di Jakarta. Anda bisa melihat estimasi ongkos kirim pada halaman checkout sebelum melakukan pembayaran."
+  },
+  {
+    "question": "Apakah saya bisa melacak pesanan saya?",
+    "answer": "Ya, setelah pesanan Anda dikirim, kami akan mengirimkan nomor resi melalui email atau WhatsApp. Anda bisa melacak status pengiriman di website resmi kurir pilihan Anda."
+  },
+  {
+    "question": "Bagaimana kebijakan pengembalian barang atau refund?",
+    "answer": "Pengembalian barang dan refund dapat dilakukan maksimal 7 hari setelah barang diterima. Syaratnya, barang harus dalam kondisi baru, belum pernah dipakai, label harga masih menempel, dan menyertakan video unboxing sebagai bukti jika ada cacat produk."
+  },
+  {
+    "question": "Apakah ada biaya untuk pengembalian barang?",
+    "answer": "Jika pengembalian disebabkan oleh kesalahan kami (seperti barang rusak atau salah kirim ukuran/warna), ongkos kirim sepenuhnya ditanggung oleh kami. Namun jika pengembalian karena keinginan pribadi (seperti berubah pikiran atau salah pilih ukuran oleh pembeli), ongkos kirim ditanggung oleh pembeli."
+  },
+  {
+    "question": "Metode pembayaran apa saja yang didukung?",
+    "answer": "Kami mendukung berbagai metode pembayaran aman: Transfer Bank (Virtual Account Mandiri, BCA, BRI, BNI), Kartu Kredit/Debit, E-Wallet (GoPay, OVO, Dana), dan Cash on Delivery (COD) khusus wilayah tertentu."
+  },
+  {
+    "question": "Bagaimana cara melakukan pembayaran dengan Virtual Account?",
+    "answer": "Pilih metode pembayaran Virtual Account saat checkout, salin nomor rekening VA yang muncul, lalu lakukan pembayaran melalui ATM, M-Banking, atau Internet Banking sebelum batas waktu pembayaran habis (24 jam)."
+  },
+  {
+    "question": "Apakah bisa melakukan pembatalan pesanan?",
+    "answer": "Pesanan hanya dapat dibatalkan jika statusnya belum masuk ke tahap pengemasan/pengiriman. Silakan hubungi Customer Service kami segera jika Anda ingin membatalkan pesanan."
+  },
+  {
+    "question": "Apakah toko ini memiliki toko fisik?",
+    "answer": "Saat ini kami hanya beroperasi secara online untuk memberikan harga terbaik langsung dari produsen kepada konsumen. Semua pesanan dikirim dari gudang pusat kami."
+  },
+  {
+    "question": "Bagaimana jika barang yang saya terima rusak atau cacat?",
+    "answer": "Jangan khawatir, kami menjamin kualitas produk kami. Harap langsung menghubungi Customer Service kami dengan melampirkan video unboxing tanpa jeda, dan kami akan mengirimkan produk pengganti atau memproses refund 100% tanpa biaya tambahan."
+  },
+  {
+    "question": "Apakah data pribadi saya aman saat berbelanja?",
+    "answer": "Kami sangat menjaga privasi Anda. Semua data transaksi dan informasi pribadi Anda dienkripsi menggunakan protokol keamanan SSL dan tidak akan pernah dibagikan kepada pihak ketiga."
+  },
+  {
+    "question": "Bagaimana cara menghubungi Customer Service?",
+    "answer": "Anda bisa menghubungi Customer Service kami melalui Live Chat di website ini, email ke support@depatostore.com, atau WhatsApp di nomor +62-812-3456-7890 (Senin - Minggu, jam 09.00 - 21.00 WIB)."
+  }
+]
