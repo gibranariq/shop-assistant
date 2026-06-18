@@ -36,7 +36,7 @@ Sistem ini terbagi menjadi 3 komponen utama:
 
 ## 💾 Proses Penyimpanan Data (Storing Data)
 
-Seluruh proses pembersihan, pemformatan, pembuatan vektor embedding, dan seeding database dikelola oleh skrip mandiri: **[store_data.py](scripts/store_data.py)**.
+Seluruh proses pembersihan, pemformatan, pembuatan vektor embedding, dan seeding database dikelola oleh skrip mandiri: **[store_data.py](scripts/store_data.py)** dan **[store_data.ipynb](notebook/store_data.ipynb)**.
 
 ![MongoDB Atlas Search Indices](assets/mongo.png)
 
